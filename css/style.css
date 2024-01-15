@@ -5,6 +5,7 @@ body{
 }
 .logo{
     width: 250px;
+    padding-top: 90px;
 }
 .frontespizio{
     height: 150px;
@@ -24,4 +25,7 @@ body{
 h4{
     color: grey;
     margin-bottom: 8px;
+}
+table{
+    border-collapse: collapse;
 }
