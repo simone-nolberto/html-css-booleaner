@@ -6,6 +6,7 @@
     background-image: url(../img/pattern.png);
     background-size: contain;
     background-repeat: initial;
+    background-color: lightskyblue;
 }
 #intestazione{
     background-color:blue;
