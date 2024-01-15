@@ -1,3 +1,12 @@
+.logo{
+    width: 250px;
+}
+.frontespizio{
+    height: 150px;
+    background-image: url(../img/pattern.png);
+    background-size: contain;
+    background-repeat: initial;
+}
 #intestazione{
     background-color:blue;
     color: white;
@@ -8,4 +17,5 @@
 }
 h4{
     color: grey;
+    margin-bottom: 8px;
 }
