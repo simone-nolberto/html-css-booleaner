@@ -1,0 +1,11 @@
+#intestazione{
+    background-color:blue;
+    color: white;
+    text-align: left;
+}
+.riga-dispari{
+    background-color: skyblue;
+}
+h4{
+    color: grey;
+}
