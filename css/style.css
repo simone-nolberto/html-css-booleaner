@@ -14,6 +14,9 @@ body{
     background-repeat: initial;
     background-color: lightskyblue;
 }
+.container{
+    padding: 10px
+}
 #intestazione{
     background-color:blue;
     color: white;
